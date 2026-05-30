@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseetringify",
+        "uuid": 15201000,
+        "checksum": "8icceq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
